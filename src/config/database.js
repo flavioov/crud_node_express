@@ -3,7 +3,7 @@ module.exports = {
     host: 'localhost',
     username: 'admin',
     password: 'admin',
-    database: 'bdnodejs',
+    database: 'bdnodejs2',
     define: {
         timestamps: true,
         underscored: true,
