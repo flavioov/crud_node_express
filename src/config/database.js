@@ -1,11 +1,11 @@
 module.exports = {
     dialect: 'postgres',
-    host: 'localhost',
+    host: '172.20.0.2',
     username: 'admin',
     password: 'admin',
-    database: 'bdnodejs2',
+    database: 'bdnodejs3',
     define: {
-        timestamps: true,
+        timestamps: false,
         underscored: true,
     },
 };
