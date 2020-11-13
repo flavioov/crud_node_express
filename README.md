@@ -1,9 +1,11 @@
-# crud_node_express
+# Desafio JSF
 
-### Dependências
+Atividade: Inserir dados em um banco de dados via pentaho e acessar
+esses dados na forma '.json' com express + nodeJS.
+- pentaho
+- node
+- express
+- sequelize
+- postgres
 
-#### Nodemon:
-atualiza automaticamente o servidor sem necessidade de recarrega-lo (restarta-lo).
-
-#### Mongose
-a dependência utilizada pelo express para o acesso ao banco de dados
+pode ser acessado [neste repositório](https://github.com/flavioov/crud_node_express.git)
